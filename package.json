@@ -1,0 +1,21 @@
+{
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "James Q Quick",
+        "path": "./themes/james-q-quick-color-theme.json",
+        "uiTheme": "vs-dark"
+      }
+    ]
+  },
+  "description": "A VS Code dark theme for Quick Coding",
+  "displayName": "James Q Quick VS Code Theme",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "name": "james-q-quick-vs-code-theme",
+  "version": "0.0.1"
+}
